@@ -39,6 +39,12 @@ label {
     font-size: 2rem;
     font-family: "Montserrat", sans-serif;
 }
+label div {
+    font-weight: 700;
+    font-size: 1.7rem;
+    margin-top: 0.5rem;
+    color: red;
+}
 .submit {
     display: flex;
     gap: 5px;
@@ -88,8 +94,13 @@ button:hover {
     word-break: break-all;
 }
 
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 450px) {
     .search-inner {
-        width: 450px;
+        width: 350px;
+    }
+}
+@media screen and (max-width: 575.98px) {
+    .search-inner {
+        width: 400px;
     }
 }
