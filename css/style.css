@@ -48,7 +48,7 @@ label div {
 .submit {
     display: flex;
     gap: 5px;
-    margin-top: 1.5rem;
+    margin-top: 2rem;
     height: 30px;
 }
 input {
@@ -83,6 +83,7 @@ button:hover {
     height: auto;
 }
 .item {
+    margin-top: 10px;
     text-align: left;
     background: rgb(124, 252, 124);
     border-radius: 15px;
