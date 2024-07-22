@@ -10,8 +10,6 @@ html {
 body {
     font-size: 1.6rem;
     font-family: Arial, Helvetica, sans-serif;
-}
-.search {
     height: 100vh;
     background-color: #4158d0;
     background-image: linear-gradient(
@@ -20,15 +18,15 @@ body {
         #c850c0 46%,
         #ffcc70 100%
     );
+}
+.search {
     display: flex;
     justify-content: center;
-    align-items: center;
 }
 .search-inner {
-    width: 450px;
-    height: 200px;
+    margin-top: 40px;
+    width: 500px;
     text-align: center;
-    transform: translateY(-70%);
     border-radius: 20px;
     background-color: #ffdee9;
     background-image: linear-gradient(0deg, #ffdee9 0%, #b5fffc 100%);
@@ -39,6 +37,7 @@ body {
 }
 label {
     font-size: 2rem;
+    font-family: "Montserrat", sans-serif;
 }
 .submit {
     display: flex;
@@ -51,7 +50,7 @@ input {
     height: 100%;
     padding-left: 10px;
     outline: none;
-    border: 1px solid royalblue;
+    border: 1px solid rgba(65, 105, 225, 0.448);
     border-radius: 5px;
 }
 input:focus {
@@ -61,25 +60,36 @@ button {
     height: 100%;
     min-width: 80px;
     border-radius: 5px;
-    border: 1px solid rgba(0, 64, 255, 0.551);
+    /* border: 1px solid rgba(0, 64, 255, 0.551); */
     cursor: pointer;
-    background: #b64d24d7;
-    color: #fff;
+    background-color: #fbab7e;
+    background-image: linear-gradient(62deg, #fbab7e 0%, #f7ce68 100%);
+
+    color: #000;
     font-size: 1.7rem;
-    font-weight: normal;
+    font-weight: bold;
 }
 button:hover {
-    opacity: 0.9;
+    opacity: 0.8;
+}
+.list {
+    margin-top: 20px;
+    height: auto;
 }
 .item {
     text-align: left;
-    margin-top: 30px;
     background: rgb(124, 252, 124);
-    border-radius: 20px;
-    padding: 10px 0 10px 20px;
-    width: 80%;
+    border-radius: 15px;
+    padding: 18px;
 }
 .item span {
     color: red;
     font-weight: bold;
+    word-break: break-all;
+}
+
+@media screen and (max-width: 576px) {
+    .search-inner {
+        width: 450px;
+    }
 }
