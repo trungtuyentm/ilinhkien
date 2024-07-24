@@ -212,6 +212,121 @@ var listProducts = [
         name: "Transistor B688 mới chính hãng",
         local: "A182",
     },
+    {
+        id: 43,
+        name: "IC nguồn MIP0223SY TO-220 chính hãng Panasonic",
+        local: "1F31",
+    },
+    {
+        id: 44,
+        name: "Pin CR2450 hàn mạch chân NẰM chất lượng",
+        local: "A424",
+    },
+    {
+        id: 45,
+        name: "IC nguồn UC3842b chân dán",
+        local: "A172",
+    },
+    {
+        id: 46,
+        name: "Tụ Audio màu đỏ 2.7uf 250V",
+        local: "3C21",
+    },
+    {
+        id: 47,
+        name: "Diode zener 1W 15V TÚI 10 CON",
+        local: "3B65",
+    },
+    {
+        id: 48,
+        name: "Relay nhiệt ksd301 160 độ",
+        local: "A252",
+    },
+    {
+        id: 49,
+        name: "Đầu mỏ hàn dao 936 màu trắng",
+        local: "2B21",
+    },
+    {
+        id: 50,
+        name: "Cuộn cảm vạch 1W 0510 1W 1mH (10 chiếc)",
+        local: "3D24",
+    },
+    {
+        id: 51,
+        name: "Tụ hóa 16V 4700uF JCON",
+        local: "A263",
+    },
+    {
+        id: 52,
+        name: "Cầu chì thủy tinh hàn chân 10A 5X20MM TÚI 10 CON",
+        local: "A132",
+    },
+    {
+        id: 53,
+        name: "Đôi kẹp cá sấu nhỏ 26mm chất lượng tốt (1 đen + 1 đỏ)",
+        local: "A143",
+    },
+    {
+        id: 54,
+        name: "IGBT bếp từ H20PR5 tháo máy CLT",
+        local: "A212",
+    },
+    {
+        id: 55,
+        name: "Phích cắm nhỏ",
+        local: "4C31",
+    },
+    {
+        id: 56,
+        name: "Mỏ hàn thiếc TQ936 60W 220V",
+        local: "trên 3D25",
+    },
+    {
+        id: 57,
+        name: "Chiết áp công tắc chân cong",
+        local: "2C53",
+    },
+    {
+        id: 58,
+        name: "Biến trở tam giác RM063 20K",
+        local: "4B15",
+    },
+    {
+        id: 59,
+        name: "DB207 diode cầu",
+        local: "2D23",
+    },
+    {
+        id: 60,
+        name: "Diode zener 5w 5.1V rỏ đỏ ",
+        local: "trên 2F25",
+    },
+    {
+        id: 61,
+        name: "Tua vit trợ lực",
+        local: "Thùng cạnh cửa",
+    },
+    {
+        id: 62,
+        name: "Jack nguồn dc cái 5.5x2.1",
+        local: "A154",
+    },
+    {
+        id: 63,
+        name: "Tấm chắn sóng lò vi sóng",
+        local: "1C35",
+    },
+    {
+        id: 64,
+        name: "Rơ le nồi cơm điện SUOER: KHÔNG VỎ",
+        local: "(trong kho) - đối diện điện trở dán",
+    },
+    {
+        id: 65,
+        name: "HER508 Diode xung 5A 1000V",
+        local: "3B45",
+    },
 ];
 
 let productFIlter = [];
