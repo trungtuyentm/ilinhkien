@@ -324,8 +324,113 @@ var listProducts = [
     },
     {
         id: 65,
-        name: "HER508 Diode xung 5A 1000V",
-        local: "3B45",
+        name: "LM339N DIP-14 thường (có thể dùng thay thế loại tốt)",
+        local: "A313",
+    },
+    {
+        id: 66,
+        name: "IC nguồn TOP258PN DIP-7",
+        local: "3D51",
+    },
+    {
+        id: 67,
+        name: "K75T60 IGBT",
+        local: "A213",
+    },
+    {
+        id: 68,
+        name: "Tụ Audio màu đỏ 6.8uF 400V",
+        local: "3C22",
+    },
+    {
+        id: 69,
+        name: "Cầu chì lò vi sóng hộp trắng 0.85A 2kV chất lượng tốt",
+        local: "3B13",
+    },
+    {
+        id: 70,
+        name: "Cầu chì lò vi sóng 900mA chất lượng tốt",
+        local: "2B62",
+    },
+    {
+        id: 71,
+        name: "Tụ hóa 16V 1500uF JCON",
+        local: "A285",
+    },
+    {
+        id: 72,
+        name: "TM1628 IC quét led và phím bấn chất lượng tốt",
+        local: "A315",
+    },
+    {
+        id: 73,
+        name: "Triac BTA16 600B",
+        local: "A322",
+    },
+    {
+        id: 74,
+        name: "IC nguồn SG3525 3525 DIP-16 chất lượng tốt (CẮM)",
+        local: "A315",
+    },
+    {
+        id: 75,
+        name: "Cuộn cảm vạch (lấy trong kho) ",
+        local: "Dẫy 2, ở vị trí đầu - T4",
+    },
+    {
+        id: 76,
+        name: "Cuộn cảm vạch 1W 0510 1W 3.3uH (10 chiếc)",
+        local: "3D24",
+    },
+    {
+        id: 77,
+        name: "IC nguồn UC3842b chân CẮM",
+        local: "A173",
+    },
+    {
+        id: 78,
+        name: "10D151k Tụ bảo vệ quá áp",
+        local: "2D64",
+    },
+    {
+        id: 79,
+        name: "Keo tản nhiệt CPU laptop HY510 hộp nhỏ",
+        local: "2C14",
+    },
+    {
+        id: 80,
+        name: "Cảm biến nhiệt 10K mf58 túi 10 con",
+        local: "2E25",
+    },
+    {
+        id: 81,
+        name: "IC nguồn TEA1721 EA1721 TEA1721BT chất lượng tốt",
+        local: "2D41",
+    },
+    {
+        id: 82,
+        name: "Rơ le nhiệt ksd301 80 độ",
+        local: "A251",
+    },
+    {
+        id: 83,
+        name: "Ampe kìm 3266TA",
+        local: "Trong kho (kệ ngay cạnh ống GEN)",
+    },
+    {
+        id: 84,
+        name: "Led dán",
+        local: "4B64",
+    },
+    {
+        id: 85,
+        name: "78L06",
+        local: "1D35",
+    },
+    {
+        id: 86,
+        name: "Mosfet 110A",
+        local: "3D44",
     },
 ];
 
