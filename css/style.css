@@ -65,9 +65,9 @@ input {
     border: 1px solid rgba(65, 105, 225, 0.448);
     border-radius: 5px;
 }
-input:focus {
-    /* background: rgba(128, 128, 128, 0.109); */
-}
+/* input:focus {
+    background: rgba(128, 128, 128, 0.109);
+} */
 button {
     height: 100%;
     min-width: 80px;
@@ -93,7 +93,7 @@ button:hover {
     text-align: left;
     background: rgb(124, 252, 124);
     border-radius: 15px;
-    padding: 18px;
+    padding: 10px 18px;
 }
 .item span {
     color: red;
