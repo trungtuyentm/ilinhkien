@@ -1,6 +1,3 @@
-var list = document.querySelector(".list");
-var filter = document.querySelector(".filter");
-
 var listProducts = [
     {
         id: 1,
@@ -434,6 +431,15 @@ var listProducts = [
     },
 ];
 
+var list = document.querySelector(".list");
+var filter = document.querySelector(".filter");
+var input = document.querySelector("input");
+var formatText = document.querySelector(".information");
+
+// Auto focus()
+input.focus();
+
+// Display product information
 let productFIlter = [];
 function showProducts(productFIlter) {
     list.innerHTML = "";
@@ -458,4 +464,11 @@ filter.addEventListener("submit", function (e) {
         return item.name.toLowerCase().includes(valueFilter);
     });
     showProducts(productFIlter);
+});
+
+// format Text after clicking to Trung Tuyển text
+formatText.addEventListener("click", function () {
+    input.value = "";
+    list.innerHTML = "";
+    input.focus();
 });
