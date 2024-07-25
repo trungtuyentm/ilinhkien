@@ -447,7 +447,7 @@ function showProducts(productFIlter) {
         let newItem = document.createElement("div");
         let span = document.createElement("span");
         newItem.classList.add("item");
-        span.innerText = `${item.name}  ------>  ${item.local}`;
+        span.innerHTML = `${item.name}  <hr>------>  <span class='local-text'>${item.local}</span></hr>`;
         newItem.appendChild(span);
         list.appendChild(newItem);
     });

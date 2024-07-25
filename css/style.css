@@ -98,7 +98,7 @@ button:hover {
 .item span {
     color: red;
     font-weight: bold;
-    word-break: break-all;
+    word-wrap: break-all;
 }
 
 @media screen and (max-width: 450px) {
@@ -110,4 +110,13 @@ button:hover {
     .search-inner {
         width: 380px;
     }
+}
+
+/* For JS */
+span {
+    line-height: 1.6;
+}
+.local-text {
+    background: yellow;
+    padding: 5px 3px;
 }
