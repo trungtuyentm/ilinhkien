@@ -429,6 +429,141 @@ var listProducts = [
         name: "Mosfet 110A",
         local: "3D44",
     },
+    {
+        id: 87,
+        name: "Biến trở tam giác RM065 500R",
+        local: "4B11",
+    },
+    {
+        id: 88,
+        name: "Cầu chì sứ 6A 5X20MM (10 CON)",
+        local: "A112",
+    },
+    {
+        id: 89,
+        name: "Tụ hóa 35V 10000uF JCON",
+        local: "A382",
+    },
+    {
+        id: 90,
+        name: "Điện trở sứ 5W 0.25R chân đứng",
+        local: "3B35",
+    },
+    {
+        id: 91,
+        name: "IRF460 Mosfet",
+        local: "2E65",
+    },
+    {
+        id: 92,
+        name: "Tấm chắn sóng, tấm amiang lò vi sóng Media, Electrolux, Sharp 10x11.8cm chịu nhiệt độ cao",
+        local: "1C35",
+    },
+    {
+        id: 93,
+        name: "Diode zener 1W 12V (TÚI 10 CON)",
+        local: "3B64",
+    },
+    {
+        id: 94,
+        name: "Diode zener 1W 24V (TÚI 10 CON)",
+        local: "3B63",
+    },
+    {
+        id: 95,
+        name: "Diode zener 1W 22V (TÚI 10 CON)",
+        local: "Rỏ cam",
+    },
+    {
+        id: 96,
+        name: "Biến trở vi chỉnh 3296W 10K",
+        local: "3A21",
+    },
+    {
+        id: 97,
+        name: "Biến trở vi chỉnh 3296W 20K",
+        local: "3A22",
+    },
+    {
+        id: 98,
+        name: "Đầu kẹp cá sấu nhỏ màu đỏ",
+        local: "A153",
+    },
+    {
+        id: 99,
+        name: "Jack nguồn DC đực 5.5x2.5 loại tốt",
+        local: "A152",
+    },
+    {
+        id: 100,
+        name: "Tụ hóa 35V 100uF JCON",
+        local: "A275",
+    },
+    {
+        id: 101,
+        name: "Tụ hóa 35V 1000uF",
+        local: "A265",
+    },
+    {
+        id: 102,
+        name: "Tụ hóa 16V 1000uF JCON",
+        local: "A262",
+    },
+    {
+        id: 103,
+        name: "Tụ hóa 50V 1uF tần số cao",
+        local: "Dưới A274",
+    },
+    {
+        id: 104,
+        name: "Tụ hóa 35V 470uF JCON",
+        local: "A265",
+    },
+    {
+        id: 105,
+        name: "Tụ hóa 16V 330uF JCON",
+        local: "3A14",
+    },
+    {
+        id: 106,
+        name: "Cầu chì hộp 2A 250V (TÚI 10 CON)",
+        local: "4B22",
+    },
+    {
+        id: 107,
+        name: "K2698 Mosfet",
+        local: "2E65",
+    },
+    {
+        id: 108,
+        name: "Dây nguồn nồi cơm điện dài 1.8m lõi 3x0.75mm",
+        local: "Thùng dưới gầm bàn máy tính",
+    },
+    {
+        id: 109,
+        name: "Cầu đấu 3P KF128 2.54mm màu xanh",
+        local: "1C64",
+    },
+    {
+        id: 110,
+        name: "Transistor S8050 SMD (TÚI 10 CON)",
+        local: "A325",
+    },
+    {
+        id: 111,
+        name: "Triac BT151 500R",
+        local: "A323",
+    },
+    {
+        id: 112,
+        name: "Cuộn cảm vạch 1W 0510 1W 2.2mH (10 chiếc)",
+        local: "3D24",
+    },
+    {
+        id: 113,
+        name: "Đôi jack bắp chuối cái 4mm (đen+đỏ)",
+        local: "A142",
+    },
 ];
 
 var list = document.querySelector(".list");
