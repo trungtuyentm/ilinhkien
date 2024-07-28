@@ -564,6 +564,76 @@ var listProducts = [
         name: "Đôi jack bắp chuối cái 4mm (đen+đỏ)",
         local: "A142",
     },
+    {
+        id: 114,
+        name: "Tụ hóa 16V 10000uF JCON",
+        local: "Dưới A263",
+    },
+    {
+        id: 115,
+        name: "Rơ le nhiệt ksd301 60 độ",
+        local: "A242",
+    },
+    {
+        id: 116,
+        name: "Tụ lọc nguồn AC 0.33uF 275V 15mm",
+        local: "A342",
+    },
+    {
+        id: 117,
+        name: "Cầu chì thủy tinh 15A 3x10mm chất lượng tốt",
+        local: "1E41",
+    },
+    {
+        id: 118,
+        name: "Mắt nhận hồng ngoại HX1838 VS1838",
+        local: "4B31",
+    },
+    {
+        id: 119,
+        name: "Cầu chì sứ hàn chân 20A 6X30mm (TÚI 10 CON)",
+        local: "1E45",
+    },
+    {
+        id: 120,
+        name: "Triac BTA16 800B",
+        local: "A322",
+    },
+    {
+        id: 121,
+        name: "IC nguồn TNY280PN DIP-7 thường",
+        local: "3D31",
+    },
+    {
+        id: 122,
+        name: "Tụ CBB, tụ keo 630V 10nF",
+        local: "???",
+    },
+    {
+        id: 123,
+        name: "N531 IC lái bếp từ chất lượng tốt (CẮM)",
+        local: "A312",
+    },
+    {
+        id: 124,
+        name: "N531 IC lái bếp từ chất lượng tốt. (DÁN)",
+        local: "A311",
+    },
+    {
+        id: 125,
+        name: "IGBT GT40Q321 GT40Q322 GT40Q323 40A 1200V dùng cho bếp từ, nồi cơm tháo máy nguyên bản chất lượng tốt",
+        local: "2E63",
+    },
+    {
+        id: 126,
+        name: "IGBT bếp từ 40RR22 40A 1353V hàng zin tháo máy chất lượng tốt",
+        local: "A212",
+    },
+    {
+        id: 127,
+        name: "40T65 IGBT FGH40T65 40A 650V",
+        local: "2E61",
+    },
 ];
 
 var list = document.querySelector(".list");
