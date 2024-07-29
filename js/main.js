@@ -634,6 +634,106 @@ var listProducts = [
         name: "40T65 IGBT FGH40T65 40A 650V",
         local: "2E61",
     },
+    {
+        id: 128,
+        name: "LED dán 0805 (10 CHIẾC) xanh dương (xanh lam)",
+        local: "4B64",
+    },
+    {
+        id: 129,
+        name: "Rơ le nhiệt 30-110 độ (xem kỹ thống số trên máy và núm)",
+        local: "1C25",
+    },
+    {
+        id: 130,
+        name: "Kẹp cá sấu lớn bằng đồng đỏ + đen",
+        local: "1E15",
+    },
+    {
+        id: 131,
+        name: "Cầu chì dẹp chân to 32V 20A",
+        local: "1E51",
+    },
+    {
+        id: 132,
+        name: "Tụ hóa 50V 2200uF tần số cao",
+        local: "A272",
+    },
+    {
+        id: 133,
+        name: "Pin CR2032 3V lithium Tianqi",
+        local: "A463",
+    },
+    {
+        id: 134,
+        name: "Jack nguồn DC cái 5.5x2.5mm loại tốt",
+        local: "A145",
+    },
+    {
+        id: 135,
+        name: "10A10 Diode chỉnh lưu 10A 1000V loại tốt",
+        local: "3B45",
+    },
+    {
+        id: 136,
+        name: "Jack nguồn DC cái 5.5x2.5mm đấu dây vỏ nhựa",
+        local: "2E61",
+    },
+    {
+        id: 137,
+        name: "Tụ hóa 25V 220uF JCON",
+        local: "2E61",
+    },
+    {
+        id: 138,
+        name: "Pin 18650 1800mAh xanh dương đậm",
+        local: "1F53",
+    },
+    {
+        id: 139,
+        name: "IC VIPER12A SOP-8",
+        local: "A162",
+    },
+    {
+        id: 140,
+        name: "Lá ủ nồi cơm điện 40W 220V chất lượng tốt",
+        local: "2B12",
+    },
+    {
+        id: 141,
+        name: "TM1638 IC quét led và phím bấm chất lượng tốt",
+        local: "A315",
+    },
+    {
+        id: 142,
+        name: "Chụp đầu đèn lò vi sóng lỗ lục giác",
+        local: "1C14",
+    },
+    {
+        id: 143,
+        name: "IGBT bếp từ H20R1353 -add không mới",
+        local: "A222",
+    },
+    {
+        id: 144,
+        name: "Transistor C1815 NPN (TÚI 10 CON)",
+        local: "A323",
+    },
+    {
+        id: 145,
+        name: "B772 2SB772 PNP Transistor 3A 30V TO-126 chính hãng",
+        local: "B772",
+    },
+    {
+        id: 146,
+        name: "Tụ lọc nguồn AC 1uF 275V chân 22mm",
+        local: "A341",
+    },
+    {
+        id: 147,
+        name: "IC nguồn MIP2F2 DIP-7 chính hãng Panasonic",
+        local: "2D33",
+    },
 ];
 
 var list = document.querySelector(".list");
