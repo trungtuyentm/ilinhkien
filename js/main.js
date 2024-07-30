@@ -734,6 +734,46 @@ var listProducts = [
         name: "IC nguồn MIP2F2 DIP-7 chính hãng Panasonic",
         local: "2D33",
     },
+    {
+        id: 147,
+        name: "Thạch Anh 32.768KHz Chân cắm",
+        local: "A372",
+    },
+    {
+        id: 147,
+        name: "Biến trở EC11 TRỤC TRÒN 15MM",
+        local: "2C51",
+    },
+    {
+        id: 147,
+        name: "Cầu chì sứ 20A 5X20MM (10 CON)",
+        local: "A113",
+    },
+    {
+        id: 147,
+        name: "Cảm biến nhiệt 50K mf58 (TÚI 10 CON)",
+        local: "2E25",
+    },
+    {
+        id: 147,
+        name: "Tụ hóa 16V 470uF JCON",
+        local: "3A14",
+    },
+    {
+        id: 147,
+        name: "KIA7805A TO-220 chính hãng",
+        local: "A183",
+    },
+    {
+        id: 147,
+        name: "Mosfet IRF3205 110A 55V TO-220 chính hãng IR",
+        local: "3D44",
+    },
+    {
+        id: 147,
+        name: "Công tắc nồi cơm điện tiếp điểm đồng 3650W",
+        local: "2B55",
+    },
 ];
 
 var list = document.querySelector(".list");
@@ -773,7 +813,26 @@ filter.addEventListener("submit", function (e) {
 
 // format Text after clicking to Trung Tuyển text
 formatText.addEventListener("click", function () {
+    format();
+});
+
+// format content
+var format = function () {
     input.value = "";
     list.innerHTML = "";
     input.focus();
+};
+
+// Switch between Light & Dark
+var packBtn = document.querySelector(".switch-storage i.fa-toggle-off");
+var storageBtn = document.querySelector(".switch-storage i.fa-toggle-on");
+var searchInnerBackground = document.querySelector(".search-inner");
+var searchInnerStorageBackground = document.querySelector(
+    ".search-inner-storage"
+);
+
+packBtn.addEventListener("click", function () {
+    searchInnerBackground.style.display = "none";
+    searchInnerStorageBackground.style.display = "block";
+    format();
 });
