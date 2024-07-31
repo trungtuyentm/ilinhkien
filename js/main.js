@@ -56,8 +56,8 @@ var listProducts = [
     },
     {
         id: 12,
-        name: "Cầu diode GBJ2510",
-        local: "A222",
+        name: "GBJ2510 Diode cầu chỉnh lưu 25A 1000V chính hãng chất lượng",
+        local: "A223",
     },
     {
         id: 13,
@@ -768,6 +768,121 @@ var listProducts = [
         id: 147,
         name: "Mosfet IRF3205 110A 55V TO-220 chính hãng IR",
         local: "3D44",
+    },
+    {
+        id: 147,
+        name: "Công tắc nồi cơm điện tiếp điểm đồng 3650W",
+        local: "2B55",
+    },
+    {
+        id: 147,
+        name: "Tụ quạt 4uf 450V 4 chân jack cắm",
+        local: "Trên 1B35",
+    },
+    {
+        id: 147,
+        name: "Mắt nhận hồng ngoại HT1838",
+        local: "4B51",
+    },
+    {
+        id: 147,
+        name: "Rơ le nhiệt nồi áp suất",
+        local: "2B52",
+    },
+    {
+        id: 147,
+        name: "IC VIPER12A SOP-8",
+        local: "A162",
+    },
+    {
+        id: 147,
+        name: "Rơ le nhiệt nồi cơm SUOER loại tốt có vỏ hộp",
+        local: "Kệ Tầng 1 cạnh anh Lộc",
+    },
+    {
+        id: 147,
+        name: "IC nguồn 78L05",
+        local: "A312",
+    },
+    {
+        id: 147,
+        name: "Tay hàn HAKKO 907A cổ nhựa",
+        local: "Trong kho (T2- Kệ cạnh Gen)",
+    },
+    {
+        id: 147,
+        name: "Sensor nhiệt 80W loại gắn",
+        local: "2C52",
+    },
+    {
+        id: 147,
+        name: "IC nguồn LNK626PG DIP-7 chính hãng Power Integrations",
+        local: "3D55",
+    },
+    {
+        id: 147,
+        name: "Công tắc nồi cơm điện tiếp điểm đồng 3650W",
+        local: "2B55",
+    },
+    {
+        id: 147,
+        name: "Công tắc nồi cơm điện tiếp điểm đồng 3650W",
+        local: "2B55",
+    },
+    {
+        id: 147,
+        name: "Công tắc nồi cơm điện tiếp điểm đồng 3650W",
+        local: "2B55",
+    },
+    {
+        id: 147,
+        name: "Công tắc nồi cơm điện tiếp điểm đồng 3650W",
+        local: "2B55",
+    },
+    {
+        id: 147,
+        name: "Công tắc nồi cơm điện tiếp điểm đồng 3650W",
+        local: "2B55",
+    },
+    {
+        id: 147,
+        name: "Công tắc nồi cơm điện tiếp điểm đồng 3650W",
+        local: "2B55",
+    },
+    {
+        id: 147,
+        name: "Công tắc nồi cơm điện tiếp điểm đồng 3650W",
+        local: "2B55",
+    },
+    {
+        id: 147,
+        name: "Công tắc nồi cơm điện tiếp điểm đồng 3650W",
+        local: "2B55",
+    },
+    {
+        id: 147,
+        name: "Công tắc nồi cơm điện tiếp điểm đồng 3650W",
+        local: "2B55",
+    },
+    {
+        id: 147,
+        name: "Công tắc nồi cơm điện tiếp điểm đồng 3650W",
+        local: "2B55",
+    },
+    {
+        id: 147,
+        name: "Công tắc nồi cơm điện tiếp điểm đồng 3650W",
+        local: "2B55",
+    },
+    {
+        id: 147,
+        name: "Công tắc nồi cơm điện tiếp điểm đồng 3650W",
+        local: "2B55",
+    },
+    {
+        id: 147,
+        name: "Công tắc nồi cơm điện tiếp điểm đồng 3650W",
+        local: "2B55",
     },
     {
         id: 147,
