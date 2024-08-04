@@ -157,7 +157,7 @@ var listProducts = [
     {
         id: 32,
         name: "Chiết áp đơn 500K",
-        local: "A333",
+        local: "3A33",
     },
     {
         id: 33,
@@ -953,6 +953,221 @@ var listProducts = [
         id: 147,
         name: "D882 2SD882 NPN Transistor 3A 40V TO-126 chính hãng.",
         local: "A181",
+    },
+    {
+        id: 147,
+        name: "Tụ hóa 35V 4700uF JCON",
+        local: "A382",
+    },
+    {
+        id: 147,
+        name: "Pin aaa duracell vỉ 2 viên",
+        local: "A483",
+    },
+    {
+        id: 147,
+        name: "Relay 3V Songle 5 chân chất lượng tốt",
+        local: "3C65",
+    },
+    {
+        id: 147,
+        name: "Pin AAA panasonic",
+        local: "A433",
+    },
+    {
+        id: 147,
+        name: "Nút nhấn 4 chân dán 4x4x4.3mm chất lượng cao túi 10 chiếc",
+        local: "2E22",
+    },
+    {
+        id: 147,
+        name: "Cút nối dây điện",
+        local: "2C15",
+    },
+    {
+        id: 147,
+        name: "Relay nhiệt ksd301 170 độ",
+        local: "2F21",
+    },
+    {
+        id: 147,
+        name: "Relay nhiệt ksd301 180 độ",
+        local: "1F11",
+    },
+    {
+        id: 147,
+        name: "HF115F-024-1ZS3 Relay 24V 16A/250V 8 chân",
+        local: "??? (Nếu hết- trong kho T2 đằng sau thùng carton",
+    },
+    {
+        id: 147,
+        name: "Lõi nhiệt 1321 cho trạm hàn 936 chính hãng",
+        local: "Trong kho dưới đất- Cạnh thùng mỡ hàn thiếc",
+    },
+    {
+        id: 147,
+        name: "Tụ mica 0.68nF - 220nF 2A 100V ( túi 10 chiếc )",
+        local: "3E35",
+    },
+    {
+        id: 147,
+        name: "Động cơ quay đĩa lò vi sóng 30V SM-16T TRỤC VÁT chất lượng tốt.",
+        local: "2C25",
+    },
+    {
+        id: 147,
+        name: "Ic chức năng HC4053 74HC4053 TSSOP-16 chính hãng NXP chất lượng",
+        local: "2F15",
+    },
+    {
+        id: 147,
+        name: "Linh kiện Diac DB3 chất lượng tốt",
+        local: "2C54",
+    },
+    {
+        id: 147,
+        name: "IGBT bếp từ H20R1203 chân dài 2cm",
+        local: "Trên A224",
+    },
+    {
+        id: 147,
+        name: "KBPC5010 Diode cầu 50V 1000V DIP-4 chính hãng SEP chân đồng",
+        local: "4C13",
+    },
+    {
+        id: 147,
+        name: "10K WH148 chiết áp đơn",
+        local: "3A31",
+    },
+    {
+        id: 147,
+        name: "Tụ hóa 35V 4700uF JCON",
+        local: "A382",
+    },
+    {
+        id: 147,
+        name: "Tụ hóa 35V 4700uF JCON",
+        local: "A382",
+    },
+    {
+        id: 147,
+        name: "Tụ hóa 35V 4700uF JCON",
+        local: "A382",
+    },
+    {
+        id: 147,
+        name: "Tụ hóa 35V 4700uF JCON",
+        local: "A382",
+    },
+    {
+        id: 147,
+        name: "Tụ hóa 35V 4700uF JCON",
+        local: "A382",
+    },
+    {
+        id: 147,
+        name: "Tụ hóa 35V 4700uF JCON",
+        local: "A382",
+    },
+    {
+        id: 147,
+        name: "Tụ hóa 35V 4700uF JCON",
+        local: "A382",
+    },
+    {
+        id: 147,
+        name: "Tụ hóa 35V 4700uF JCON",
+        local: "A382",
+    },
+    {
+        id: 147,
+        name: "Tụ hóa 35V 4700uF JCON",
+        local: "A382",
+    },
+    {
+        id: 147,
+        name: "Tụ hóa 35V 4700uF JCON",
+        local: "A382",
+    },
+    {
+        id: 147,
+        name: "Tụ hóa 35V 4700uF JCON",
+        local: "A382",
+    },
+    {
+        id: 147,
+        name: "Tụ hóa 35V 4700uF JCON",
+        local: "A382",
+    },
+    {
+        id: 147,
+        name: "Tụ hóa 35V 4700uF JCON",
+        local: "A382",
+    },
+    {
+        id: 147,
+        name: "Tụ hóa 35V 4700uF JCON",
+        local: "A382",
+    },
+    {
+        id: 147,
+        name: "Tụ hóa 35V 4700uF JCON",
+        local: "A382",
+    },
+    {
+        id: 147,
+        name: "Tụ hóa 35V 4700uF JCON",
+        local: "A382",
+    },
+    {
+        id: 147,
+        name: "Tụ hóa 35V 4700uF JCON",
+        local: "A382",
+    },
+    {
+        id: 147,
+        name: "Tụ hóa 35V 4700uF JCON",
+        local: "A382",
+    },
+    {
+        id: 147,
+        name: "Tụ hóa 35V 4700uF JCON",
+        local: "A382",
+    },
+    {
+        id: 147,
+        name: "Tụ hóa 35V 4700uF JCON",
+        local: "A382",
+    },
+    {
+        id: 147,
+        name: "Tụ hóa 35V 4700uF JCON",
+        local: "A382",
+    },
+    {
+        id: 147,
+        name: "Tụ hóa 35V 4700uF JCON",
+        local: "A382",
+    },
+    {
+        id: 147,
+        name: "Tụ hóa 35V 4700uF JCON",
+        local: "A382",
+    },
+    {
+        id: 147,
+        name: "Tụ hóa 35V 4700uF JCON",
+        local: "A382",
+    },
+    {
+        id: 147,
+        name: "Tụ hóa 35V 4700uF JCON",
+        local: "A382",
+    },
+    {
+        id: 147,
+        name: "Tụ hóa 35V 4700uF JCON",
+        local: "A382",
     },
 ];
 
