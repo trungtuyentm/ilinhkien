@@ -1166,163 +1166,28 @@ var listProducts = [
     },
     {
         id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
+        name: "OB2269CP SOP-8",
+        local: "2D31",
     },
     {
         id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
+        name: "IC nguồn TOP257YN TOP257 chính hãng",
+        local: "3D33",
     },
     {
         id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
+        name: "Mắt hồng ngoại HX1838 VS1838",
+        local: "4B31",
     },
     {
         id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
+        name: "Mạch nguồn 12V 400mA",
+        local: "4C43",
     },
     {
         id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
-    },
-    {
-        id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
-    },
-    {
-        id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
-    },
-    {
-        id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
-    },
-    {
-        id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
-    },
-    {
-        id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
-    },
-    {
-        id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
-    },
-    {
-        id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
-    },
-    {
-        id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
-    },
-    {
-        id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
-    },
-    {
-        id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
-    },
-    {
-        id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
-    },
-    {
-        id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
-    },
-    {
-        id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
-    },
-    {
-        id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
-    },
-    {
-        id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
-    },
-    {
-        id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
-    },
-    {
-        id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
-    },
-    {
-        id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
-    },
-    {
-        id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
-    },
-    {
-        id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
-    },
-    {
-        id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
-    },
-    {
-        id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
-    },
-    {
-        id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
-    },
-    {
-        id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
-    },
-    {
-        id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
-    },
-    {
-        id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
-    },
-    {
-        id: 147,
-        name: "Bút thử điện cảm ứng có còi báo",
-        local: "4C21",
+        name: "Cặp sò âm thanh NJW0281G NJW0302G tháo máy nguyên bản",
+        local: "2E63",
     },
 ];
 
