@@ -1189,6 +1189,61 @@ var listProducts = [
         name: "Cặp sò âm thanh NJW0281G NJW0302G tháo máy nguyên bản",
         local: "2E63",
     },
+    {
+        id: 147,
+        name: "H30PR5 tháo máy IGBT 30A 1350VC",
+        local: "A185",
+    },
+    {
+        id: 147,
+        name: "Công tắc ấm siêu tốc SL - 888",
+        local: "3B62",
+    },
+    {
+        id: 147,
+        name: "Tụ kẹo 400V 335j 3.3uF",
+        local: "3E33",
+    },
+    {
+        id: 147,
+        name: "Điện trở nhiệt NTC 10D-11",
+        local: "4D61",
+    },
+    {
+        id: 147,
+        name: "Led dán 0603 hồng",
+        local: "4B65",
+    },
+    {
+        id: 147,
+        name: "Tụ dán 1206 SMD 22nF",
+        local: "1D15",
+    },
+    {
+        id: 147,
+        name: "20A10 Diode chỉnh lưu 20A 1000V loại tốt",
+        local: "3B44",
+    },
+    {
+        id: 147,
+        name: "PIN CR2025 Panasonic chính hãng chất lượng tốt",
+        local: "A443",
+    },
+    {
+        id: 147,
+        name: "LM324 LM324DR SOP-14 chính hãng TI",
+        local: "A165",
+    },
+    {
+        id: 147,
+        name: "Pin CR1220 hàn mạch chân nằm chất lượng tốt",
+        local: "A413",
+    },
+    {
+        id: 147,
+        name: "IC quang EL6N137 DIP-8 chính hãng Everlight",
+        local: "A161",
+    },
 ];
 
 var list = document.querySelector(".list");
