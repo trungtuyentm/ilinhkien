@@ -1244,6 +1244,51 @@ var listProducts = [
         name: "IC quang EL6N137 DIP-8 chính hãng Everlight",
         local: "A161",
     },
+    {
+        id: 147,
+        name: "Triac MAC97A8 0.8A 600V chân cắm chất lượng tốt.",
+        local: "A324",
+    },
+    {
+        id: 147,
+        name: "BTA12",
+        local: "3D35",
+    },
+    {
+        id: 147,
+        name: "Cầu chì lò vi sóng 900mA chất lượng tốt",
+        local: "2B62",
+    },
+    {
+        id: 147,
+        name: "IC nguồn 7805 chính hãng",
+        local: "2E11",
+    },
+    {
+        id: 147,
+        name: "Pin CR1220 Panasonic chính hãng chất lượng tốt",
+        local: "A482",
+    },
+    {
+        id: 147,
+        name: "Pin 9V Tianqiu chất lượng cao.",
+        local: "A462",
+    },
+    {
+        id: 147,
+        name: "TM1668 IC quét led và bàn phím chất lượng tốt",
+        local: "A315",
+    },
+    {
+        id: 147,
+        name: "IC nguồn TNY279PN DIP-7 chính hãng Power Integrations",
+        local: "2D45",
+    },
+    {
+        id: 147,
+        name: "FAN7393 SOP-14 chính hãng",
+        local: "2F25",
+    },
 ];
 
 var list = document.querySelector(".list");
