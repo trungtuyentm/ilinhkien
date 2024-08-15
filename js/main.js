@@ -1289,6 +1289,31 @@ var listProducts = [
         name: "FAN7393 SOP-14 chính hãng",
         local: "2F25",
     },
+    {
+        id: 147,
+        name: "IGBT bếp từ H20MR5 IHW20N120R5 40A 1200V tháo máy chất lượng tốt",
+        local: "A225",
+    },
+    {
+        id: 147,
+        name: "Tụ sứ vàng 50V 100nF túi 10 con",
+        local: "kệ 3E",
+    },
+    {
+        id: 147,
+        name: "IGBT H25R1203 25A 1200V tháo máy.",
+        local: "A215",
+    },
+    {
+        id: 147,
+        name: "Công tắc gạt MTS-202 5A 125V Xanh 6 chân 2 chế độ ON-ON",
+        local: "A334",
+    },
+    {
+        id: 147,
+        name: "Công tắc hành trình KW11-N 3P có con lăn",
+        local: "3B25",
+    },
 ];
 
 var list = document.querySelector(".list");
