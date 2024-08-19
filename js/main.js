@@ -1197,7 +1197,7 @@ var listProducts = [
     {
         id: 147,
         name: "Công tắc ấm siêu tốc SL - 888",
-        local: "3B62",
+        local: "2B11",
     },
     {
         id: 147,
@@ -1313,6 +1313,51 @@ var listProducts = [
         id: 147,
         name: "Công tắc hành trình KW11-N 3P có con lăn",
         local: "3B25",
+    },
+    {
+        id: 147,
+        name: "PIN CR1620 Panasonic chính hãng chất lượng",
+        local: "A474",
+    },
+    {
+        id: 147,
+        name: "Mũi hàn T12 cong",
+        local: "4C61",
+    },
+    {
+        id: 147,
+        name: "IGBT GT60N321 60N321 60A 1000V tháo máy",
+        local: "A214",
+    },
+    {
+        id: 147,
+        name: "GBJ5010 Diode cầu 50A 1000V chính hãng SEB Đài Loan",
+        local: "A211",
+    },
+    {
+        id: 147,
+        name: "Công tắc gạt SS12F15 G6 6mm 3P",
+        local: "A355",
+    },
+    {
+        id: 147,
+        name: "Pin Camelion AG13/LR44/A76/SR44W/GP76A/357 chính hãng chất lượng",
+        local: "A464",
+    },
+    {
+        id: 147,
+        name: "RJH60F5 60F IGBT máy hàn, bếp từ 80A 600V nguyên bản tháo máy chất lượng tốt",
+        local: "A215",
+    },
+    {
+        id: 147,
+        name: "Chân cắm đèn lò vi sóng màu trắng bền bỉ",
+        local: "2B34",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
     },
 ];
 
