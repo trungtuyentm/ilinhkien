@@ -1359,6 +1359,161 @@ var listProducts = [
         name: "Tụ 104j 2000v",
         local: "3E32",
     },
+    {
+        id: 147,
+        name: "Thạch anh 12mhz 49SMD",
+        local: "2C43",
+    },
+    {
+        id: 147,
+        name: "IC quang TLP351 P351 SOP-8 Toshiba",
+        local: "3D12",
+    },
+    {
+        id: 147,
+        name: "10D151k TỤ BẢO VỆ QUÁ ÁP",
+        local: "2D64",
+    },
+    {
+        id: 147,
+        name: "PN8034 DIP-7 chính hãng chipown",
+        local: "2D43",
+    },
+    {
+        id: 147,
+        name: "IGBT FGA25N120 THÁO MÁY",
+        local: "A211",
+    },
+    {
+        id: 147,
+        name: "Diode xung FR307 (10con)",
+        local: "3B61",
+    },
+    {
+        id: 147,
+        name: "KA3525 DIP-16 chính hãng Fairchild",
+        local: "2D32",
+    },
+    {
+        id: 147,
+        name: "LM2596 Mạch hạ áp DC 3A LM2596S",
+        local: "Kệ tầng 3 gần rơ le công nghiệp",
+    },
+    {
+        id: 147,
+        name: "IGBT RJH1BF7 1BF7 60A 1100V tháo máy chất lượng tốt",
+        local: "A232",
+    },
+    {
+        id: 147,
+        name: "IC nguồn TNY276PN DIP-7 chính hãng Power Integrations",
+        local: "3D32",
+    },
+    {
+        id: 147,
+        name: "IGBT bếp từ H30R1202",
+        local: "A222",
+    },
+    {
+        id: 147,
+        name: "SI2301 A1SHB",
+        local: "1F22",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
 ];
 
 var list = document.querySelector(".list");
