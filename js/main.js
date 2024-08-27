@@ -1421,18 +1421,18 @@ var listProducts = [
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Triac BT138",
+        local: "A323",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Diode xung SF58 dòng điện 5A điện áp 600V DO-201AD loại tốt",
+        local: "3B53",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "HP4066 CD74HC4066PW TSSOP-14 chính hãng TI",
+        local: "2F15",
     },
     {
         id: 147,
