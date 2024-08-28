@@ -1436,13 +1436,13 @@ var listProducts = [
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Chiết áp đơn RV09 3 chân đứng 1K",
+        local: "3A65",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Triac BT136 chính hãng",
+        local: "A162",
     },
     {
         id: 147,
