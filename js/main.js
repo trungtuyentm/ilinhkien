@@ -1446,8 +1446,8 @@ var listProducts = [
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Đôi jack bắp chuối cái 4mm (đen+đỏ)",
+        local: "1A65",
     },
     {
         id: 147,
