@@ -1266,6 +1266,11 @@ var listProducts = [
     },
     {
         id: 147,
+        name: "IC nguồn 7805 thường",
+        local: "A175",
+    },
+    {
+        id: 147,
         name: "Pin CR1220 Panasonic chính hãng chất lượng tốt",
         local: "A482",
     },
@@ -1327,7 +1332,7 @@ var listProducts = [
     {
         id: 147,
         name: "IGBT GT60N321 60N321 60A 1000V tháo máy",
-        local: "A214",
+        local: "2B64",
     },
     {
         id: 147,
@@ -1427,7 +1432,7 @@ var listProducts = [
     {
         id: 147,
         name: "Diode xung SF58 dòng điện 5A điện áp 600V DO-201AD loại tốt",
-        local: "3B53",
+        local: "3B35",
     },
     {
         id: 147,
@@ -1451,43 +1456,43 @@ var listProducts = [
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Mosfet 5N60 lưng nhựa chất lượng tốt",
+        local: "3D14",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "78L05A 7805 SOP-8 chính hãng ST",
+        local: "2F12",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "IC nguồn MIP2K3",
+        local: "2D33",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Điện trở vuông 3362P 100K",
+        local: "3A12",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "PN8024R DIP-7 chính hãng chipown",
+        local: "2D43",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "IGBT bếp từ H30R1353 tháo máy",
+        local: "A222",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "PIN CR2032 hàn mạch chân nằm chất lượng",
+        local: "4A12",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "IC MIP283 tháo máy chất lượng tốt",
+        local: "2D33",
     },
     {
         id: 147,
