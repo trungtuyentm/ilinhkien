@@ -57,7 +57,7 @@ var listProducts = [
     {
         id: 12,
         name: "GBJ2510 Diode cầu chỉnh lưu 25A 1000V chính hãng chất lượng",
-        local: "A223",
+        local: "2B62",
     },
     {
         id: 13,
@@ -92,7 +92,7 @@ var listProducts = [
     {
         id: 19,
         name: "HER508 HER307 Diode xung",
-        local: "3B61",
+        local: "3B31",
     },
     {
         id: 20,
@@ -107,7 +107,7 @@ var listProducts = [
     {
         id: 22,
         name: "IGBT tháo máy FGH40N60",
-        local: "A224",
+        local: "2B64",
     },
     {
         id: 23,
@@ -717,7 +717,7 @@ var listProducts = [
     {
         id: 145,
         name: "B772 2SB772 PNP Transistor 3A 30V TO-126 chính hãng",
-        local: "B772",
+        local: "A181",
     },
     {
         id: 146,
@@ -1222,7 +1222,7 @@ var listProducts = [
     {
         id: 147,
         name: "20A10 Diode chỉnh lưu 20A 1000V loại tốt",
-        local: "3B44",
+        local: "3B33",
     },
     {
         id: 147,
@@ -1496,23 +1496,78 @@ var listProducts = [
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "LM393 chân cắm",
+        local: "3A14",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Biến trở vuông 3362P 5K",
+        local: "3A13",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Giăng nồi áp suất điện đa năng 22cm 24cm chất lượng tốt (3L/4L)",
+        local: "Trong kho trên tụ hóa",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "IC nguồn THX202",
+        local: "3D45",
+    },
+    {
+        id: 147,
+        name: "Diode 1N5408 3A 1000V chân cắm chất lượng tốt.",
+        local: "3B34",
+    },
+    {
+        id: 147,
+        name: "GBU2510 Diode cầu 25A 1000V DIP-4 chính hãng SEB",
+        local: "2B62",
+    },
+    {
+        id: 147,
+        name: "Tụ mica 100V (10 chiếc) 2A102J 1nF",
+        local: "3E41",
+    },
+    {
+        id: 147,
+        name: "A1015 PNP Transistor 0.15A 60V TO-92 (10c)",
+        local: "1F22",
+    },
+    {
+        id: 147,
+        name: "LM393 LM393DR LM393P Ic khuếch đại thuật toán",
+        local: "A314",
+    },
+    {
+        id: 147,
+        name: "Công tắc gạt SS12D00G5 1P2T tay gạt 5mm",
+        local: "trên 4D62 (hàng này lấy hàng bên khác)",
+    },
+    {
+        id: 147,
+        name: "IGBT 40WR21 40QR21 40A 1800V tháo máy chất lượng tốt",
+        local: "2E41",
+    },
+    {
+        id: 147,
+        name: "Công tắc quạt treo tường",
+        local: "4B54 phía trong (có lò xo và giấy)",
+    },
+    {
+        id: 147,
+        name: "IGBT bếp từ FGH60T65",
+        local: "3B44",
+    },
+    {
+        id: 147,
+        name: "Cầu chì lò vi sóng 900mA chất lượng tốt",
+        local: "2B44",
+    },
+    {
+        id: 147,
+        name: "Dây bus 2P XH2.54 dây 22AWG 2 đầu cắm (15cm)",
+        local: "Dưới 4D62",
     },
     {
         id: 147,
