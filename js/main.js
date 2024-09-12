@@ -667,7 +667,7 @@ var listProducts = [
     {
         id: 135,
         name: "10A10 Diode chỉnh lưu 10A 1000V loại tốt",
-        local: "3B45",
+        local: "3B32",
     },
     {
         id: 136,
@@ -1568,6 +1568,156 @@ var listProducts = [
         id: 147,
         name: "Dây bus 2P XH2.54 dây 22AWG 2 đầu cắm (15cm)",
         local: "Dưới 4D62",
+    },
+    {
+        id: 137,
+        name: "Công tắc gạt SS12F15 G6 6mm",
+        local: "2E61",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
     },
     {
         id: 147,
