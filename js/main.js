@@ -345,11 +345,6 @@ var listProducts = [
         local: "3B13",
     },
     {
-        id: 70,
-        name: "Cầu chì lò vi sóng 900mA chất lượng tốt",
-        local: "2B62",
-    },
-    {
         id: 71,
         name: "Tụ hóa 16V 1500uF JCON",
         local: "A285",
@@ -622,7 +617,7 @@ var listProducts = [
     {
         id: 126,
         name: "IGBT bếp từ 40RR22 40A 1353V hàng zin tháo máy chất lượng tốt",
-        local: "A212",
+        local: "2E43",
     },
     {
         id: 127,
@@ -1256,11 +1251,6 @@ var listProducts = [
     },
     {
         id: 147,
-        name: "Cầu chì lò vi sóng 900mA chất lượng tốt",
-        local: "2B62",
-    },
-    {
-        id: 147,
         name: "IC nguồn 7805 chính hãng",
         local: "2E11",
     },
@@ -1307,7 +1297,7 @@ var listProducts = [
     {
         id: 147,
         name: "IGBT H25R1203 25A 1200V tháo máy.",
-        local: "A215",
+        local: "2E43",
     },
     {
         id: 147,
@@ -1576,18 +1566,18 @@ var listProducts = [
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "SR3100 SS310-SMA Diode Schottky 3A 100V",
+        local: "1F31",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "SR5200 Schottky Diode 5A 200V DO-27 DIP",
+        local: "3B35",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Chiết áp công tắc đơn 50K RV097NS xanh 5 chân",
+        local: "3A62",
     },
     {
         id: 147,
