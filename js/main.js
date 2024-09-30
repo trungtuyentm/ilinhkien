@@ -57,7 +57,7 @@ var listProducts = [
     {
         id: 12,
         name: "GBJ2510 Diode cầu chỉnh lưu 25A 1000V chính hãng chất lượng",
-        local: "2B62",
+        local: "2B64",
     },
     {
         id: 13,
@@ -1037,7 +1037,7 @@ var listProducts = [
     {
         id: 147,
         name: "IGBT GT60M303 60M303 60A 900V tháo máy",
-        local: "A214",
+        local: "2B55",
     },
     {
         id: 147,
@@ -1242,7 +1242,7 @@ var listProducts = [
     {
         id: 147,
         name: "Triac MAC97A8 0.8A 600V chân cắm chất lượng tốt.",
-        local: "A324",
+        local: "2E34",
     },
     {
         id: 147,
@@ -1607,6 +1607,11 @@ var listProducts = [
     {
         id: 147,
         name: "Tụ nhôm 50V 47uf",
+        local: "1D21",
+    },
+    {
+        id: 147,
+        name: "Tụ nhôm 50V 22uf",
         local: "1D21",
     },
     {
