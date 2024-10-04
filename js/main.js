@@ -187,12 +187,12 @@ var listProducts = [
     {
         id: 38,
         name: "Ic LM358 CẮM",
-        local: "A311",
+        local: "2E12",
     },
     {
         id: 39,
         name: "Ic LM358 DÁN",
-        local: "A313",
+        local: "2E12",
     },
     {
         id: 40,
@@ -362,7 +362,7 @@ var listProducts = [
     {
         id: 74,
         name: "IC nguồn SG3525 3525 DIP-16 chất lượng tốt (CẮM)",
-        local: "A315",
+        local: "2E14",
     },
     {
         id: 75,
@@ -607,7 +607,7 @@ var listProducts = [
     {
         id: 124,
         name: "N531 IC lái bếp từ chất lượng tốt. (DÁN)",
-        local: "A311",
+        local: "2E11",
     },
     {
         id: 125,
@@ -617,7 +617,7 @@ var listProducts = [
     {
         id: 126,
         name: "IGBT bếp từ 40RR22 40A 1353V hàng zin tháo máy chất lượng tốt",
-        local: "2E43",
+        local: "2B52",
     },
     {
         id: 127,
@@ -702,7 +702,7 @@ var listProducts = [
     {
         id: 143,
         name: "IGBT bếp từ H20R1353 -add không mới",
-        local: "A222",
+        local: "2B51",
     },
     {
         id: 144,
@@ -733,6 +733,11 @@ var listProducts = [
         id: 147,
         name: "Biến trở EC11 TRỤC TRÒN 15MM",
         local: "2C51",
+    },
+    {
+        id: 147,
+        name: "Biến trở EC11 TRỤC VÁT 15MM",
+        local: "3C53 - Có ốc",
     },
     {
         id: 147,
@@ -786,8 +791,8 @@ var listProducts = [
     },
     {
         id: 147,
-        name: "IC nguồn 78L05",
-        local: "A312",
+        name: "IC nguồn 78L05 cắm chính hãng đóng dây",
+        local: "2E12",
     },
     {
         id: 147,
@@ -966,6 +971,11 @@ var listProducts = [
     },
     {
         id: 147,
+        name: "Nút nhấn 4 chân dán 4x4x1.7mm chất lượng cao túi 10 chiếc",
+        local: "4D63",
+    },
+    {
+        id: 147,
         name: "Cút nối dây điện",
         local: "2C15",
     },
@@ -1007,7 +1017,7 @@ var listProducts = [
     {
         id: 147,
         name: "Linh kiện Diac DB3 chất lượng tốt",
-        local: "2C54",
+        local: "Trong kho",
     },
     {
         id: 147,
@@ -1187,7 +1197,7 @@ var listProducts = [
     {
         id: 147,
         name: "H30PR5 tháo máy IGBT 30A 1350VC",
-        local: "A185",
+        local: "Dưới bàn máy tính",
     },
     {
         id: 147,
@@ -1246,7 +1256,7 @@ var listProducts = [
     },
     {
         id: 147,
-        name: "BTA12",
+        name: "Triac BTA12",
         local: "3D35",
     },
     {
@@ -1256,8 +1266,13 @@ var listProducts = [
     },
     {
         id: 147,
+        name: "IC nguồn 7812",
+        local: "3E35",
+    },
+    {
+        id: 147,
         name: "IC nguồn 7805 thường",
-        local: "A175",
+        local: "3E35",
     },
     {
         id: 147,
@@ -1287,7 +1302,7 @@ var listProducts = [
     {
         id: 147,
         name: "IGBT bếp từ H20MR5 IHW20N120R5 40A 1200V tháo máy chất lượng tốt",
-        local: "A225",
+        local: "2B51",
     },
     {
         id: 147,
@@ -1297,7 +1312,7 @@ var listProducts = [
     {
         id: 147,
         name: "IGBT H25R1203 25A 1200V tháo máy.",
-        local: "2E43",
+        local: "2B52",
     },
     {
         id: 147,
@@ -1366,6 +1381,11 @@ var listProducts = [
     },
     {
         id: 147,
+        name: "IC quang TLP350 SOP-8 Toshiba",
+        local: "3D12",
+    },
+    {
+        id: 147,
         name: "10D151k TỤ BẢO VỆ QUÁ ÁP",
         local: "2D64",
     },
@@ -1418,6 +1438,11 @@ var listProducts = [
         id: 147,
         name: "Triac BT138",
         local: "A323",
+    },
+    {
+        id: 147,
+        name: "Triac BT131",
+        local: "2E34",
     },
     {
         id: 147,
@@ -1668,6 +1693,151 @@ var listProducts = [
         id: 147,
         name: "IC nguồn AP8012 thay thế cho Viper12A chất lượng tốt.",
         local: "3E33",
+    },
+    {
+        id: 147,
+        name: "Relay bảo vệ 15A tự động",
+        local: "Trong kho",
+    },
+    {
+        id: 147,
+        name: "Transistor 2N3904 MMBT3904 1AM 0.2A 40V SOT-23 túi 10 con",
+        local: "1F13",
+    },
+    {
+        id: 147,
+        name: "Tụ sứ vàng 50V 100nF túi 10 con",
+        local: "1E11 - 0,1uF",
+    },
+    {
+        id: 147,
+        name: "Quạt tản nhiệt 24V 12x12x2.5 Dưới nhà",
+        local: "Dưới nhà",
+    },
+    {
+        id: 147,
+        name: "LM339 LM339DR DIP-14 cắm loại thường",
+        local: "2E13",
+    },
+    {
+        id: 147,
+        name: "Transistor TIP42C 6A 100V chất lượng tốt",
+        local: "3E23",
+    },
+    {
+        id: 147,
+        name: "MCR100 Thyristor 1A 600V chất lượng cao (cắm)",
+        local: "1F11",
+    },
+    {
+        id: 147,
+        name: "Kẹp móc màu đỏ.",
+        local: "1C25",
+    },
+    {
+        id: 147,
+        name: "Đế IC 8 chân DIP-8 loại tròn chất lượng tốt",
+        local: "1D45",
+    },
+    {
+        id: 147,
+        name: "Thạch anh 2 chân 455E CRB-455E",
+        local: "2C33",
+    },
+    {
+        id: 147,
+        name: "Động cơ quay đĩa lò vi sóng 220V trục vát chất lượng tốt",
+        local: "2C55",
+    },
+    {
+        id: 147,
+        name: "Thanh gậy màn hình tròn dài đầu dẹp",
+        local: "4C41",
+    },
+    {
+        id: 147,
+        name: "D25XB80 Diode cầu 25A 1000V DIP-4",
+        local: "3E44",
+    },
+    {
+        id: 147,
+        name: "Tụ bếp từ 10uF nằm màu xanh",
+        local: "Dưới nhà phía trong",
+    },
+    {
+        id: 147,
+        name: "IGBT bếp từ 40RR22",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
     },
     {
         id: 147,
