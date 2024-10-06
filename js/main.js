@@ -1562,7 +1562,7 @@ var listProducts = [
     {
         id: 147,
         name: "IGBT 40WR21 40QR21 40A 1800V tháo máy chất lượng tốt",
-        local: "2E41",
+        local: "2B54",
     },
     {
         id: 147,
@@ -1771,13 +1771,13 @@ var listProducts = [
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "6A10 Diode chỉnh lưu 6A 1000V",
+        local: "3B32",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Mosfet 20N60 lưng nhựa chất lượng tốt.",
+        local: "3D15",
     },
     {
         id: 147,
