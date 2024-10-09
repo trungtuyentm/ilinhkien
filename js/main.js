@@ -657,7 +657,7 @@ var listProducts = [
     {
         id: 134,
         name: "Jack nguồn DC cái 5.5x2.5mm loại tốt",
-        local: "A145",
+        local: "1A54",
     },
     {
         id: 135,
@@ -1057,7 +1057,7 @@ var listProducts = [
     {
         id: 147,
         name: "IC nguồn Viper12A",
-        local: "A173",
+        local: "3E33",
     },
     {
         id: 147,
@@ -1781,23 +1781,23 @@ var listProducts = [
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Thiếc hàn 10G nhỏ",
+        local: "sn63 1mm 1m",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "IC nguồn 7809 chính hãng",
+        local: "1F51",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Còi chíp 3V TMB09A03 9x5.5",
+        local: "2E23",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Chiết áp đơn RV09 3 chân đứng 10K",
+        local: "1D54",
     },
     {
         id: 147,
