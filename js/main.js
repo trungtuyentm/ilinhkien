@@ -397,7 +397,7 @@ var listProducts = [
     {
         id: 81,
         name: "IC nguồn TEA1721 EA1721 TEA1721BT chất lượng tốt",
-        local: "2D41",
+        local: "1D61",
     },
     {
         id: 82,
@@ -757,7 +757,7 @@ var listProducts = [
     {
         id: 147,
         name: "KIA7805A TO-220 chính hãng",
-        local: "A183",
+        local: "3E43",
     },
     {
         id: 147,
@@ -1087,7 +1087,7 @@ var listProducts = [
     {
         id: 147,
         name: "ABS10 Diode cầu 1A 1000V SOP-4",
-        local: "3D45",
+        local: "2D45",
     },
     {
         id: 147,
@@ -1202,7 +1202,7 @@ var listProducts = [
     {
         id: 147,
         name: "Công tắc ấm siêu tốc SL - 888",
-        local: "2B11",
+        local: "3C65",
     },
     {
         id: 147,
@@ -1257,7 +1257,7 @@ var listProducts = [
     {
         id: 147,
         name: "Triac BTA12",
-        local: "3D35",
+        local: "2D55",
     },
     {
         id: 147,
@@ -1801,23 +1801,23 @@ var listProducts = [
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "ICE2QS03 DIP-8 chính hãng infineon",
+        local: "2E11",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "GBJ3510 Diode cầu 35A 1000V tháo máy cắt chân",
+        local: "2B65",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "IC nguồn AP8022 DIP-8",
+        local: "3E44",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "TA8316 IC lái IGBT nồi cơm cao tần chất lượng tốt",
+        local: "3E31",
     },
     {
         id: 147,
