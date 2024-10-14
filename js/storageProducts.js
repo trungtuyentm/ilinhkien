@@ -300,12 +300,17 @@ if (speechRecognition) {
 
     storageMicBtn.addEventListener("click", storageVoiceBtnClick);
     function storageVoiceBtnClick(e) {
+        e.preventDefault();
+
         if (storageMicIcon.classList.contains("fa-microphone")) {
-            e.preventDefault();
             storageRecognition.start();
 
             storageInput.value = "";
             storageList.innerHTML = "";
+
+            setTimeout(() => {
+                storageRecognition.stop();
+            }, 2000);
         } else {
             storageRecognition.stop();
         }

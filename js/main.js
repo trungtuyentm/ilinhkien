@@ -1972,12 +1972,12 @@ if (speechRecognition) {
         if (micIcon.classList.contains("fa-microphone")) {
             recognition.start();
 
-            storageInput.value = "";
-            storageList.innerHTML = "";
+            input.value = "";
+            list.innerHTML = "";
 
             setTimeout(() => {
                 recognition.stop();
-            }, 1500);
+            }, 2000);
         } else {
             recognition.stop();
         }
