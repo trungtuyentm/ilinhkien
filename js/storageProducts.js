@@ -302,8 +302,10 @@ if (speechRecognition) {
     function storageVoiceBtnClick(e) {
         if (storageMicIcon.classList.contains("fa-microphone")) {
             e.preventDefault();
-            format();
             storageRecognition.start();
+
+            storageInput.value = "";
+            storageList.innerHTML = "";
         } else {
             storageRecognition.stop();
         }

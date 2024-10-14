@@ -1896,9 +1896,6 @@ var filter = document.querySelector(".filter");
 var input = document.querySelector("input");
 var formatText = document.querySelector(".information");
 
-// Auto focus()
-input.focus();
-
 // Display product information
 let productFIlter = [];
 function showProducts(productFIlter) {
@@ -1929,6 +1926,8 @@ function submitResult(e) {
 
 // format Text after clicking to Trung Tuyển text
 formatText.addEventListener("click", function () {
+    // Auto focus()
+    input.focus();
     format();
 });
 
@@ -1969,8 +1968,10 @@ if (speechRecognition) {
     function voiceBtnClick(e) {
         if (micIcon.classList.contains("fa-microphone")) {
             e.preventDefault();
-            format();
             recognition.start();
+
+            input.value = "";
+            list.innerHTML = "";
         } else {
             recognition.stop();
         }
@@ -1988,7 +1989,6 @@ if (speechRecognition) {
         micIcon.classList.remove("fa-microphone-slash");
         micIcon.classList.add("fa-microphone");
         status.classList.remove("show");
-        searchFormInput.focus();
     }
 
     recognition.addEventListener("result", resultSpeechRecognition);
