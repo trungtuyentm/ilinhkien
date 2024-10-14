@@ -1914,7 +1914,8 @@ function showProducts(productFIlter) {
 }
 showProducts(productFIlter);
 
-filter.addEventListener("submit", function (e) {
+filter.addEventListener("submit", submitResult);
+function submitResult(e) {
     e.preventDefault();
     let valueFilter = e.target.elements.name.value.toLowerCase();
     productFIlter = listProducts.filter(function (item) {
@@ -1924,7 +1925,7 @@ filter.addEventListener("submit", function (e) {
         return item.name.toLowerCase().includes(valueFilter);
     });
     showProducts(productFIlter);
-});
+}
 
 // format Text after clicking to Trung Tuyển text
 formatText.addEventListener("click", function () {
@@ -1951,3 +1952,53 @@ packBtn.addEventListener("click", function () {
     searchInnerStorageBackground.style.display = "block";
     format();
 });
+
+// Search by my voice
+const speechRecognition =
+    window.speechRecognition || window.webkitSpeechRecognition;
+
+if (speechRecognition) {
+    const micBtn = document.querySelector(".mic-btn");
+    const micIcon = document.querySelector(".mic-btn i");
+    const status = document.querySelector(".status");
+
+    const recognition = new speechRecognition();
+    recognition.lang = "vi-VN";
+
+    micBtn.addEventListener("click", voiceBtnClick);
+    function voiceBtnClick(e) {
+        if (micIcon.classList.contains("fa-microphone")) {
+            e.preventDefault();
+            format();
+            recognition.start();
+        } else {
+            recognition.stop();
+        }
+    }
+
+    recognition.addEventListener("start", startSpeechRecognition);
+    function startSpeechRecognition() {
+        micIcon.classList.remove("fa-microphone");
+        micIcon.classList.add("fa-microphone-slash");
+        status.classList.add("show");
+    }
+
+    recognition.addEventListener("end", endSpeechRecognition);
+    function endSpeechRecognition() {
+        micIcon.classList.remove("fa-microphone-slash");
+        micIcon.classList.add("fa-microphone");
+        status.classList.remove("show");
+        searchFormInput.focus();
+    }
+
+    recognition.addEventListener("result", resultSpeechRecognition);
+    function resultSpeechRecognition(e) {
+        const transcript = e.results[0][0].transcript.trim().toLowerCase();
+        console.log(transcript);
+        input.value = transcript;
+        submitResult({
+            preventDefault: () => {},
+            target: { elements: { name: { value: transcript } } },
+        });
+    }
+}

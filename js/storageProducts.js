@@ -252,7 +252,8 @@ function storageShowProducts(storageProductFIlter) {
 }
 storageShowProducts(storageProductFIlter);
 
-storageFilter.addEventListener("submit", function (e) {
+storageFilter.addEventListener("submit", storageSubmitResult);
+function storageSubmitResult(e) {
     e.preventDefault();
     let valueFilter = e.target.elements.name.value.toLowerCase();
     storageProductFIlter = storageProducts.filter(function (item) {
@@ -262,7 +263,7 @@ storageFilter.addEventListener("submit", function (e) {
         return item.name.toLowerCase().includes(valueFilter);
     });
     storageShowProducts(storageProductFIlter);
-});
+}
 
 // format Text after clicking to Trung Tuyển text
 storageFormatText.addEventListener("click", function () {
@@ -280,3 +281,59 @@ storageBtn.addEventListener("click", function () {
     searchInnerStorageBackground.style.display = "none";
     storageFormat();
 });
+
+// Search by my voice
+// const speechRecognition =
+//     window.speechRecognition || window.webkitSpeechRecognition;
+
+if (speechRecognition) {
+    const storageMicBtn = document.querySelector(
+        ".search-inner-storage .mic-btn"
+    );
+    const storageMicIcon = document.querySelector(
+        ".search-inner-storage .mic-btn i"
+    );
+    const status = document.querySelector(".status");
+
+    const storageRecognition = new speechRecognition();
+    storageRecognition.lang = "vi-VN";
+
+    storageMicBtn.addEventListener("click", storageVoiceBtnClick);
+    function storageVoiceBtnClick(e) {
+        if (storageMicIcon.classList.contains("fa-microphone")) {
+            e.preventDefault();
+            format();
+            storageRecognition.start();
+        } else {
+            storageRecognition.stop();
+        }
+    }
+
+    storageRecognition.addEventListener("start", startSpeechRecognition);
+    function startSpeechRecognition() {
+        storageMicIcon.classList.remove("fa-microphone");
+        storageMicIcon.classList.add("fa-microphone-slash");
+        status.classList.add("show");
+        status.classList.add("position");
+    }
+
+    storageRecognition.addEventListener("end", endSpeechRecognition);
+    function endSpeechRecognition() {
+        storageMicIcon.classList.remove("fa-microphone-slash");
+        storageMicIcon.classList.add("fa-microphone");
+        status.classList.remove("show");
+        status.classList.remove("position");
+        searchFormInput.focus();
+    }
+
+    storageRecognition.addEventListener("result", resultSpeechRecognition);
+    function resultSpeechRecognition(e) {
+        const transcript = e.results[0][0].transcript.trim().toLowerCase();
+        console.log(transcript);
+        storageInput.value = transcript;
+        storageSubmitResult({
+            preventDefault: () => {},
+            target: { elements: { name: { value: transcript } } },
+        });
+    }
+}
