@@ -1928,6 +1928,7 @@ function submitResult(e) {
 formatText.addEventListener("click", function () {
     // Auto focus()
     input.focus();
+
     format();
 });
 
@@ -1966,12 +1967,17 @@ if (speechRecognition) {
 
     micBtn.addEventListener("click", voiceBtnClick);
     function voiceBtnClick(e) {
+        e.preventDefault();
+
         if (micIcon.classList.contains("fa-microphone")) {
-            e.preventDefault();
             recognition.start();
 
-            input.value = "";
-            list.innerHTML = "";
+            storageInput.value = "";
+            storageList.innerHTML = "";
+
+            setTimeout(() => {
+                recognition.stop();
+            }, 1500);
         } else {
             recognition.stop();
         }

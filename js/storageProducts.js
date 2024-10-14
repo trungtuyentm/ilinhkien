@@ -325,7 +325,6 @@ if (speechRecognition) {
         storageMicIcon.classList.add("fa-microphone");
         status.classList.remove("show");
         status.classList.remove("position");
-        searchFormInput.focus();
     }
 
     storageRecognition.addEventListener("result", resultSpeechRecognition);
