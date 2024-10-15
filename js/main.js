@@ -306,8 +306,8 @@ var listProducts = [
     },
     {
         id: 62,
-        name: "Jack nguồn dc cái 5.5x2.1",
-        local: "A154",
+        name: "Jack nguồn dc cái 5.5x2.1mm đấu dây vỏ nhựa",
+        local: "1A54",
     },
     {
         id: 63,
@@ -555,11 +555,6 @@ var listProducts = [
         local: "3D24",
     },
     {
-        id: 113,
-        name: "Đôi jack bắp chuối cái 4mm (đen+đỏ)",
-        local: "A142",
-    },
-    {
         id: 114,
         name: "Tụ hóa 16V 10000uF JCON",
         local: "Dưới A263",
@@ -612,7 +607,7 @@ var listProducts = [
     {
         id: 125,
         name: "IGBT GT40Q321 GT40Q322 GT40Q323 40A 1200V dùng cho bếp từ, nồi cơm tháo máy nguyên bản chất lượng tốt",
-        local: "2E63",
+        local: "3E13",
     },
     {
         id: 126,
@@ -1082,7 +1077,7 @@ var listProducts = [
     {
         id: 147,
         name: "Jack nguồn DC đực 5.5x2.1mm loại tốt lõi nhựa vàng",
-        local: "A143",
+        local: "1A55",
     },
     {
         id: 147,
@@ -1262,7 +1257,7 @@ var listProducts = [
     {
         id: 147,
         name: "IC nguồn 7805 chính hãng",
-        local: "2E11",
+        local: "1F51",
     },
     {
         id: 147,
@@ -1397,7 +1392,7 @@ var listProducts = [
     {
         id: 147,
         name: "IGBT FGA25N120 THÁO MÁY",
-        local: "A211",
+        local: "2B52",
     },
     {
         id: 147,
@@ -1467,7 +1462,7 @@ var listProducts = [
     {
         id: 147,
         name: "Đôi jack bắp chuối cái 4mm (đen+đỏ)",
-        local: "1A65",
+        local: "1A81",
     },
     {
         id: 147,
@@ -1603,6 +1598,16 @@ var listProducts = [
         id: 147,
         name: "Chiết áp công tắc đơn 50K RV097NS xanh 5 chân",
         local: "3A62",
+    },
+    {
+        id: 147,
+        name: "Chiết áp công tắc đơn 100K RV097NS xanh 5 chân",
+        local: "3A62",
+    },
+    {
+        id: 147,
+        name: "Chiết áp công tắc đơn 10K RV097NS xanh 5 chân",
+        local: "3A61",
     },
     {
         id: 147,
@@ -1821,38 +1826,38 @@ var listProducts = [
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "290N08 TFP290N08 N-Mosfet 290A 80V",
+        local: "3E13",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Công tắc bập bênh KCD3 16A 250V 3 chế độ 3 chân màu đen",
+        local: "3D41",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Công tắc bập bênh XL601-106 6A 250V 3 chế độ 6 chân màu đen",
+        local: "3D32",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "chiết áp đơn RK097N xanh 15mm 50K chất lượng tốt",
+        local: "3A45",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Công tắc đèn pin 2P YT-1712 Đen",
+        local: "2B25",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "TL431 TL431A Cắm chính hãng",
+        local: "3E54",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Công tắc bập bênh KCD4 15A/250V 6 chân 3 chế độ không đèn",
+        local: "3D43",
     },
     {
         id: 147,
