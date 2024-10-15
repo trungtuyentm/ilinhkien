@@ -310,7 +310,7 @@ if (speechRecognition) {
 
             setTimeout(() => {
                 storageRecognition.stop();
-            }, 4000);
+            }, 3500);
         } else {
             storageRecognition.stop();
         }

@@ -1982,7 +1982,7 @@ if (speechRecognition) {
 
             setTimeout(() => {
                 recognition.stop();
-            }, 4000);
+            }, 3500);
         } else {
             recognition.stop();
         }
