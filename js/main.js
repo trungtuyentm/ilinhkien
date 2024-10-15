@@ -221,8 +221,8 @@ var listProducts = [
     },
     {
         id: 45,
-        name: "IC nguồn UC3842b chân dán",
-        local: "A172",
+        name: "IC nguồn UC3842b chân dán (IL0040_02)",
+        local: "3E32",
     },
     {
         id: 46,
@@ -582,7 +582,7 @@ var listProducts = [
     {
         id: 120,
         name: "Triac BTA16 800B",
-        local: "A322",
+        local: "2E32",
     },
     {
         id: 121,
@@ -802,7 +802,7 @@ var listProducts = [
     {
         id: 147,
         name: "IC nguồn LNK626PG DIP-7 chính hãng Power Integrations",
-        local: "3D55",
+        local: "2D65",
     },
     {
         id: 147,
@@ -1547,7 +1547,7 @@ var listProducts = [
     {
         id: 147,
         name: "LM393 LM393DR LM393P Ic khuếch đại thuật toán",
-        local: "A314",
+        local: "2E14",
     },
     {
         id: 147,
@@ -1861,23 +1861,23 @@ var listProducts = [
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Công tắc gạt MSK-12C02 SMD 7P loại tốt đóng dây (IL0769)",
+        local: "3D31",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "IGBT RJH60F7 60F7 90A 600V tháo máy nguyên bản (IL0058_0)",
+        local: "2B63",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "IC nguồn 7812 chính hãng (IL3187_5)",
+        local: "1F52",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "LM358 LM358DR dán IC so sánh chất lượng tốt",
+        local: "2F43",
     },
     {
         id: 147,
