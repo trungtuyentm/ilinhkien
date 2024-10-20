@@ -522,7 +522,7 @@ var listProducts = [
     {
         id: 106,
         name: "Cầu chì hộp 2A 250V (TÚI 10 CON)",
-        local: "4B22",
+        local: "2F22",
     },
     {
         id: 107,
@@ -652,7 +652,7 @@ var listProducts = [
     {
         id: 134,
         name: "Jack nguồn DC cái 5.5x2.5mm loại tốt",
-        local: "1A54",
+        local: "1A61",
     },
     {
         id: 135,
@@ -821,8 +821,8 @@ var listProducts = [
     },
     {
         id: 147,
-        name: "Công tắc bập bênh đôi KCD6-212N 16A 250V 6 chân (CÓ ĐÈN)",
-        local: "A362",
+        name: "Công tắc bập bênh đôi KCD6-212N 16A 250V 6 chân (CÓ ĐÈN) - (IL1156)",
+        local: "3D42",
     },
     {
         id: 147,
@@ -1357,7 +1357,7 @@ var listProducts = [
     {
         id: 147,
         name: "Chân cắm đèn lò vi sóng màu trắng bền bỉ",
-        local: "2B34",
+        local: "3B14",
     },
     {
         id: 147,
@@ -1407,7 +1407,7 @@ var listProducts = [
     {
         id: 147,
         name: "LM2596 Mạch hạ áp DC 3A LM2596S",
-        local: "Kệ tầng 3 gần rơ le công nghiệp",
+        local: "4B52",
     },
     {
         id: 147,
@@ -1646,8 +1646,8 @@ var listProducts = [
     },
     {
         id: 147,
-        name: "Transistor TIP 41C 6A 100V Chất lượng tốt",
-        local: "A163",
+        name: "Transistor TIP41C 6A 100V Chất lượng tốt",
+        local: "3E23",
     },
     {
         id: 147,
@@ -1878,6 +1878,191 @@ var listProducts = [
         id: 147,
         name: "LM358 LM358DR dán IC so sánh chất lượng tốt",
         local: "2F43",
+    },
+    {
+        id: 147,
+        name: "Công tắc bập bênh KCD3 xanh lá",
+        local: "3D41",
+    },
+    {
+        id: 147,
+        name: "Công tắc bập bênh KCD1-104R 6A250V 15x21mm 4P đèn xanh",
+        local: "3D33",
+    },
+    {
+        id: 147,
+        name: "IC TDA2030 ic âm thanh chất lượng cao",
+        local: "2D65",
+    },
+    {
+        id: 147,
+        name: "NE555 cắm - (IL1979_C)",
+        local: "3E21",
+    },
+    {
+        id: 147,
+        name: "Led dán 0805 10 chiếc Đỏ - (IL0621_7) ",
+        local: "3F53",
+    },
+    {
+        id: 147,
+        name: "Chiết áp đơn WTH118-2W 4.7K",
+        local: "3A51",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
     },
     {
         id: 147,
