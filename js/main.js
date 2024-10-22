@@ -41,13 +41,13 @@ var listProducts = [
     },
     {
         id: 9,
-        name: "Ic quang PC817",
-        local: "A322",
+        name: "Ic quang PC817 EL817C DIP-4 chính hãng Everlight",
+        local: "2E31",
     },
     {
         id: 10,
-        name: "Ic quang PC814",
-        local: "A322",
+        name: "Tụ nhôm 50V 47uF",
+        local: "1D21",
     },
     {
         id: 11,
@@ -1911,23 +1911,23 @@ var listProducts = [
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Tụ sứ vàng 50V 3.3nF túi 10 con - (IL0645_1)",
+        local: "1E13",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "IGBT H30R1602 THÁO MÁY",
+        local: "2B52",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Công tắc bập bênh RY1-101 6A 250V 2P 15x21mm không đèn",
+        local: "3D35",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "KBP310 Diode cầu 3A 1000V DIP4 chính hãng SEP (thay thế KBP307, KBP306)",
+        local: "2B62",
     },
     {
         id: 147,
