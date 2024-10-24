@@ -727,7 +727,7 @@ var listProducts = [
     {
         id: 147,
         name: "Biến trở EC11 TRỤC TRÒN 15MM",
-        local: "2C51",
+        local: "3C53",
     },
     {
         id: 147,
@@ -798,6 +798,11 @@ var listProducts = [
         id: 147,
         name: "Sensor nhiệt 80W loại gắn",
         local: "2C52",
+    },
+    {
+        id: 147,
+        name: "Sensor nhiệt 80W loại hàn - (3127_80W)",
+        local: "3C55",
     },
     {
         id: 147,
