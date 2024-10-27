@@ -62,7 +62,7 @@ var listProducts = [
     {
         id: 13,
         name: "Cặp sò C5200",
-        local: "A164 - Hỏi xem loại thường hay tháo máy",
+        local: "3E24 - Hỏi xem loại thường hay tháo máy",
     },
     {
         id: 14,
@@ -597,7 +597,7 @@ var listProducts = [
     {
         id: 123,
         name: "N531 IC lái bếp từ chất lượng tốt (CẮM)",
-        local: "A312",
+        local: "2E11",
     },
     {
         id: 124,
@@ -1936,48 +1936,43 @@ var listProducts = [
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Cuộn Cảm Cắm 6x8mm 0608 100uH",
+        local: "2D13",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Jack nguồn DC đực 3.5x1.3mm loại tốt",
+        local: "1A55",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Triac BT151 500R",
+        local: "2E33",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Công tắc gạt MTS-103 3A 250V xanh 3 chân 3 chế độ ON-OFF-ON",
+        local: "1D64",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Chiết áp đơn WTH118-2W 470K",
+        local: "3A54",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Triac BTA41 600B",
+        local: "2D54",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Biến trở tam giác RM065 500R",
+        local: "2F31",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
-    },
-    {
-        id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Công tắc đèn pin 2P chân cắm YT-1288",
+        local: "2B25",
     },
     {
         id: 147,
