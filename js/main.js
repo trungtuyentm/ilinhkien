@@ -1976,23 +1976,28 @@ var listProducts = [
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "D718 8A 160V TO-3P MỚI chính hãng",
+        local: "3E42",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "D688 8A 160V TO-3P MỚI chính hãng",
+        local: "3E42",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "PN8044 DIP-7 chính hãng Chipown",
+        local: "1D63",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Diode zener dán SMD 1W 3.3V",
+        local: "3B23",
+    },
+    {
+        id: 147,
+        name: "IGBT bếp từ H20PR5 IHW20N135R5 20A 1350V TO-247 tháo máy chất lượng tốt",
+        local: "2B51",
     },
     {
         id: 147,
