@@ -61,8 +61,8 @@ var listProducts = [
     },
     {
         id: 13,
-        name: "Cặp sò C5200",
-        local: "3E24 - Hỏi xem loại thường hay tháo máy",
+        name: "Cặp sò C5200 A1943",
+        local: "3E45",
     },
     {
         id: 14,
@@ -2031,33 +2031,38 @@ var listProducts = [
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
+        name: "TOP246YN IC nguồn chính hãng",
+        local: "2F41",
+    },
+    {
+        id: 147,
+        name: "IC nguồn 78L15",
+        local: "2F52",
+    },
+    {
+        id: 147,
+        name: "IC nguồn 78L06",
+        local: "2F51",
+    },
+    {
+        id: 147,
+        name: "Ic nguồn 78L08 0.1A 8V SOT-89",
+        local: "2F53",
+    },
+    {
+        id: 147,
+        name: "Chiết áp đơn RV09 3 chân đứng 10K",
+        local: "3A65",
+    },
+    {
+        id: 147,
+        name: "R39MF5 DIP-7 Phototriac chính hãng Sharp",
         local: "3E32",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
-    },
-    {
-        id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
-    },
-    {
-        id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
-    },
-    {
-        id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
-    },
-    {
-        id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Mạch nguồn 5V 700MA",
+        local: "4B35",
     },
     {
         id: 147,
