@@ -2066,13 +2066,13 @@ var listProducts = [
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "SDH8302 DIP-8 chất lượng tốt",
+        local: "2F55",
     },
     {
         id: 147,
-        name: "Tụ 104j 2000v",
-        local: "3E32",
+        name: "Mosfet 80NF70 80A 70V mới chính hãng",
+        local: "2D22",
     },
     {
         id: 147,
