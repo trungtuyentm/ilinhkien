@@ -65,19 +65,9 @@ var listProducts = [
         local: "3E45",
     },
     {
-        id: 14,
-        name: "Ic Chức năng TL494",
-        local: "A165",
-    },
-    {
         id: 15,
         name: "Rơ le nhiệt nồi cơm",
         local: "1C34 - Xem kỹ có đúng loại không?",
-    },
-    {
-        id: 16,
-        name: "Viper 22V",
-        local: "A14-A15",
     },
     {
         id: 17,
@@ -212,7 +202,7 @@ var listProducts = [
     {
         id: 43,
         name: "IC nguồn MIP0223SY TO-220 chính hãng Panasonic",
-        local: "1F31",
+        local: "1F21",
     },
     {
         id: 44,
@@ -381,8 +371,8 @@ var listProducts = [
     },
     {
         id: 78,
-        name: "10D151k Tụ bảo vệ quá áp",
-        local: "2D64",
+        name: "10D151k TỤ BẢO VỆ QUÁ ÁP",
+        local: "1D54",
     },
     {
         id: 79,
@@ -791,6 +781,11 @@ var listProducts = [
     },
     {
         id: 147,
+        name: "IC nguồn 78M12",
+        local: "3E55",
+    },
+    {
+        id: 147,
         name: "Tay hàn HAKKO 907A cổ nhựa",
         local: "Trong kho (T2- Kệ cạnh Gen)",
     },
@@ -823,6 +818,11 @@ var listProducts = [
         id: 147,
         name: "Chiết áp đôi WH148 50K",
         local: "3A34",
+    },
+    {
+        id: 147,
+        name: "Chiết áp đôi RK097G xanh 15mm 50K",
+        local: "3A55",
     },
     {
         id: 147,
@@ -942,7 +942,7 @@ var listProducts = [
     {
         id: 147,
         name: "D882 2SD882 NPN Transistor 3A 40V TO-126 chính hãng.",
-        local: "A181",
+        local: "3E41",
     },
     {
         id: 147,
@@ -972,7 +972,7 @@ var listProducts = [
     {
         id: 147,
         name: "Nút nhấn 4 chân dán 4x4x1.7mm chất lượng cao túi 10 chiếc",
-        local: "4D63",
+        local: "3D45",
     },
     {
         id: 147,
@@ -1192,7 +1192,7 @@ var listProducts = [
     {
         id: 147,
         name: "Cặp sò âm thanh NJW0281G NJW0302G tháo máy nguyên bản",
-        local: "2E63",
+        local: "3E13",
     },
     {
         id: 147,
@@ -1436,12 +1436,22 @@ var listProducts = [
     },
     {
         id: 147,
+        name: "SI2302 SI2302 A2SHB túi 10 con",
+        local: "1F12",
+    },
+    {
+        id: 147,
         name: "Triac BT138",
         local: "A323",
     },
     {
         id: 147,
         name: "Triac BT131",
+        local: "2E34",
+    },
+    {
+        id: 147,
+        name: "Triac BT134",
         local: "2E34",
     },
     {
@@ -1543,6 +1553,11 @@ var listProducts = [
         id: 147,
         name: "Tụ mica 100V (10 chiếc) 2A102J 1nF",
         local: "3E41",
+    },
+    {
+        id: 147,
+        name: "Tụ mica 100V (10 chiếc) 2A472J 4.7nF",
+        local: "1F44",
     },
     {
         id: 147,
@@ -1673,6 +1688,11 @@ var listProducts = [
         id: 147,
         name: "IC nguồn TOP250YN chính hãng",
         local: "2D44",
+    },
+    {
+        id: 147,
+        name: "IC nguồn TOP253PN DIP chính hãng",
+        local: "1D64",
     },
     {
         id: 147,
@@ -1932,6 +1952,11 @@ var listProducts = [
     {
         id: 147,
         name: "KBP310 Diode cầu 3A 1000V DIP4 chính hãng SEP (thay thế KBP307, KBP306)",
+        local: "2B62",
+    },
+    {
+        id: 147,
+        name: "KBP210 Diode cầu 2A 1000V DIP-4 loại tốt",
         local: "2B62",
     },
     {
