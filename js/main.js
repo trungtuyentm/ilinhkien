@@ -317,7 +317,7 @@ var listProducts = [
     {
         id: 66,
         name: "IC nguồn TOP258PN DIP-7",
-        local: "3D51",
+        local: "2F43",
     },
     {
         id: 67,
@@ -677,7 +677,7 @@ var listProducts = [
     {
         id: 141,
         name: "TM1638 IC quét led và phím bấm chất lượng tốt",
-        local: "A315",
+        local: "2E15",
     },
     {
         id: 142,
@@ -807,7 +807,7 @@ var listProducts = [
     {
         id: 147,
         name: "IGBT bếp từ 50N324 (50A-1000V) bóc máy",
-        local: "A224",
+        local: "2B54",
     },
     {
         id: 147,
@@ -1036,11 +1036,6 @@ var listProducts = [
     },
     {
         id: 147,
-        name: "Biến trở EC12",
-        local: "2C52",
-    },
-    {
-        id: 147,
         name: "Tụ hóa 25V 3300uF 13x25mm tần số cao",
         local: "A275",
     },
@@ -1092,7 +1087,7 @@ var listProducts = [
     {
         id: 147,
         name: "Biến trở EC12",
-        local: "2C52",
+        local: "3C54",
     },
     {
         id: 147,
@@ -1152,12 +1147,12 @@ var listProducts = [
     {
         id: 147,
         name: "Công tắc bập bênh tròn KCD1-105 6(4)A 250V 2P không đèn",
-        local: "A353",
+        local: "3D34",
     },
     {
         id: 147,
         name: "Công tắc volume vô cấp EC11 15mm 20mm 3 chân Ilinhkien",
-        local: "2C51",
+        local: "2C51 - Có ốc",
     },
     {
         id: 147,
@@ -1251,6 +1246,11 @@ var listProducts = [
     },
     {
         id: 147,
+        name: "IC quang MOC3020",
+        local: "2F14",
+    },
+    {
+        id: 147,
         name: "Triac MAC97A8 0.8A 600V chân cắm chất lượng tốt.",
         local: "2E34",
     },
@@ -1266,8 +1266,18 @@ var listProducts = [
     },
     {
         id: 147,
+        name: "IC nguồn SM7028 SM7028B chân cắm chất lượng tốt",
+        local: "2D34",
+    },
+    {
+        id: 147,
         name: "IC nguồn 7812",
         local: "3E35",
+    },
+    {
+        id: 147,
+        name: "IC nguồn 7815",
+        local: "3E34",
     },
     {
         id: 147,
@@ -1287,7 +1297,7 @@ var listProducts = [
     {
         id: 147,
         name: "TM1668 IC quét led và bàn phím chất lượng tốt",
-        local: "A315",
+        local: "2E15",
     },
     {
         id: 147,
@@ -1337,7 +1347,7 @@ var listProducts = [
     {
         id: 147,
         name: "IGBT GT60N321 60N321 60A 1000V tháo máy",
-        local: "2B64",
+        local: "2B55",
     },
     {
         id: 147,
@@ -1357,7 +1367,7 @@ var listProducts = [
     {
         id: 147,
         name: "RJH60F5 60F IGBT máy hàn, bếp từ 80A 600V nguyên bản tháo máy chất lượng tốt",
-        local: "A215",
+        local: "2B63",
     },
     {
         id: 147,
@@ -1437,7 +1447,7 @@ var listProducts = [
     {
         id: 147,
         name: "SI2302 SI2302 A2SHB túi 10 con",
-        local: "1F12",
+        local: "1F12 - 10 CON",
     },
     {
         id: 147,
@@ -1471,11 +1481,6 @@ var listProducts = [
     },
     {
         id: 147,
-        name: "Triac BT136 chính hãng",
-        local: "A162",
-    },
-    {
-        id: 147,
         name: "Đôi jack bắp chuối cái 4mm (đen+đỏ)",
         local: "1A81",
     },
@@ -1496,6 +1501,11 @@ var listProducts = [
     },
     {
         id: 147,
+        name: "IC nguồn MIP2E5DMY TO-220 chính hãng Panasonic",
+        local: "1F21",
+    },
+    {
+        id: 147,
         name: "Điện trở vuông 3362P 100K",
         local: "3A12",
     },
@@ -1507,7 +1517,7 @@ var listProducts = [
     {
         id: 147,
         name: "IGBT bếp từ H30R1353 tháo máy",
-        local: "A222",
+        local: "2B53",
     },
     {
         id: 147,
@@ -1637,7 +1647,7 @@ var listProducts = [
     {
         id: 147,
         name: "Công tắc volume vô cấp EC16 trục vát 15mm 3 chân",
-        local: "1C65",
+        local: "1C65 - Không ốc",
     },
     {
         id: 147,
@@ -2031,6 +2041,11 @@ var listProducts = [
     },
     {
         id: 147,
+        name: "AMS1117-1.2V IC ổn áp 1.2V 1A SOT-223",
+        local: "1F15",
+    },
+    {
+        id: 147,
         name: "IC nguồn 78L12",
         local: "1D41",
     },
@@ -2098,6 +2113,186 @@ var listProducts = [
         id: 147,
         name: "Mosfet 80NF70 80A 70V mới chính hãng",
         local: "2D22",
+    },
+    {
+        id: 147,
+        name: "Tụ tantalum 35V 4.7uF",
+        local: "3E51",
+    },
+    {
+        id: 147,
+        name: "Công tắc đèn pin 2P chân cắm vuông 112D",
+        local: "3D15",
+    },
+    {
+        id: 147,
+        name: "Cầu chì hộp 4A 250V túi 10 con",
+        local: "2F23",
+    },
+    {
+        id: 147,
+        name: "UF4007 Diode xung 1A 1000V DIP chính hãng MIC đóng dây",
+        local: "3B25 (10 CON)",
+    },
+    {
+        id: 147,
+        name: "2A165 ICE2A165 DIP-8 chính hãng Infineon",
+        local: "1D62",
+    },
+    {
+        id: 147,
+        name: "BU406 Transistor 7A 400V",
+        local: "2D55",
+    },
+    {
+        id: 147,
+        name: "IGBT GT60M303 60M303 60A 900V tháo máy",
+        local: "2B55",
+    },
+    {
+        id: 147,
+        name: "Thạch anh 24mhz 49smd",
+        local: "2C43",
+    },
+    {
+        id: 147,
+        name: "Thay H20R 1353 --> H20PR5",
+        local: "???",
+    },
+    {
+        id: 147,
+        name: "Thay H30R 1353 --> H30PR5",
+        local: "???",
+    },
+    {
+        id: 147,
+        name: "Thay Công tắc ấm siêu tốc trắng cho mọi loại",
+        local: "???",
+    },
+    {
+        id: 147,
+        name: "Thay H25R1203 --> H20R",
+        local: "???",
+    },
+    {
+        id: 147,
+        name: "Thay kẹp acquy nhỏ --> acquy to",
+        local: "???",
+    },
+    {
+        id: 147,
+        name: "Thay chặn lồng đen --> trắng",
+        local: "???",
+    },
+    {
+        id: 147,
+        name: "Thay nhíp ESD-11 --> nhíp lỗ",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Thay 10A10 --> 20A10",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Thay VIPER12A --> VIPER22A",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
+    },
+    {
+        id: 147,
+        name: "Tụ 104j 2000v",
+        local: "3E32",
     },
     {
         id: 147,
